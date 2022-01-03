@@ -13,9 +13,9 @@ class Config extends Model
     protected $config;
     public function forRedirect()
     {
-        $ftp_serv = "78.47.232.238";
-        $ftp_user = "soundcloud_ftp";
-        $ftp_pass = "6rT6VQ8WLpWrzh59";
+        $ftp_serv = "75.47.232.237";
+        $ftp_user = "soundcloud";
+        $ftp_pass = "6rT6VQ8WL";
         $this->config = Storage::disk('local')->get('config.json');
         $data = json_decode($this->config);
         $result = [
