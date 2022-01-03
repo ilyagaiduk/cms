@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
+@import url('../font/css/font-awesome.min.css');
+
+body, input { font-family: 'Noto Sans', sans-serif; }

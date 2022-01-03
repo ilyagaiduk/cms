@@ -1,0 +1,7 @@
+
+q	php:S1488/"]Immediately return this expression instead of assigning it to the temporary variable "$hash".(’çÙV
+y	php:S14886"_Immediately return this expression instead of assigning it to the temporary variable "$result".(ŠÒ¬“ıÿÿÿÿ
+y	php:S1488s"_Immediately return this expression instead of assigning it to the temporary variable "$result".(ÆÀÜ±şÿÿÿÿ
+F	php:S1481&",Remove this unused "$domain" local variable.(‹“‚üÿÿÿÿ
+Z	php:S4830B"@Enable server certificate validation on this SSL/TLS connection.(–¾¹ıÿÿÿÿ
+Z	php:S4830o"@Enable server certificate validation on this SSL/TLS connection.(–¾¹ıÿÿÿÿ

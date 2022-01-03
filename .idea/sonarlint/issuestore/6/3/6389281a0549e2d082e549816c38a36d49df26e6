@@ -1,0 +1,10 @@
+
+W	php:S1142"=This method has 10 returns, which is more than the 3 allowed.(­ÃÀóøÿÿÿÿ
+O	php:S1142f"<This method has 7 returns, which is more than the 3 allowed.(©
+
+n	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(­ÃÀóøÿÿÿÿ
+a	php:S1192"LDefine a constant instead of duplicating this literal "config.json" 3 times.(©‚‡
+0	php:S3626#"Remove this redundant jump.(ÉŠ©ƒ
+0	php:S3626*"Remove this redundant jump.(ÉŠ©ƒ
+1	php:S3626‡"Remove this redundant jump.(ÉŠ©ƒ
+Dphp:S121="0Add curly braces around the nested statement(s).(şÇÆ”

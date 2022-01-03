@@ -1,0 +1,19 @@
+
+j	php:S3776!"URefactor this function to reduce its Cognitive Complexity from 173 to the 15 allowed.(¨‰›Ò
+g	php:S1192à"LDefine a constant instead of duplicating this literal "300x225.jpg" 3 times.(ú·ïüÿÿÿÿ
+g	php:S1192ã"LDefine a constant instead of duplicating this literal "400x225.jpg" 3 times.(éŞ¦™şÿÿÿÿ
+a	php:S1192é"LDefine a constant instead of duplicating this literal "320x240.jpg" 3 times.(²Í·m
+f	php:S1192"LDefine a constant instead of duplicating this literal "tracks.json" 3 times.(ÅÕ‹øÿÿÿÿÿ
+h	php:S1192Ú"RDefine a constant instead of duplicating this literal "/usr/bin/convert " 6 times.(ƒ¯çá
+g	php:S1192İ"LDefine a constant instead of duplicating this literal "320x180.jpg" 3 times.(õ©ƒªşÿÿÿÿ
+b	php:S1192æ"LDefine a constant instead of duplicating this literal "273x153.jpg" 3 times.(ß†»³
+b	php:S1192Ú"LDefine a constant instead of duplicating this literal "400x300.jpg" 3 times.(ƒ¯çá
+x	php:S1488"^Immediately return this expression instead of assigning it to the temporary variable "$model".(ŞĞÑ€şÿÿÿÿ
+A	php:S1481",Remove this unused "$delete" local variable.(³ÄÎ
+>	php:S1481")Remove this unused "$put" local variable.(¬¡ºÒ
+G	php:S1481ó",Remove this unused "$upload" local variable.(ãüıûÿÿÿÿ
+F	php:S1481£"0Remove this unused "$uploadCrop" local variable.(á÷
+1	php:S3626©"Remove this redundant jump.(ÉŠ©ƒ
+U	php:S1854c";Remove this useless assignment to local variable '$result'.(ÆÀÜ±şÿÿÿÿ
+Z	php:S4830a"@Enable server certificate validation on this SSL/TLS connection.(–¾¹ıÿÿÿÿ
+Šphp:S138!"vThis function "inBase" has 261 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(¨‰›Ò

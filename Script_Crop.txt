@@ -1,0 +1,15 @@
+   $arrImg = [
+                        '400x300' => '400x300',
+                        '320x180' => '320x180',
+                        '300x225' => '300x225',
+                        '400x225' => '400x225',
+                        '273x153' => '273x153',
+                        '320x240' => '320x240',
+                    ];
+                    foreach ($arrImg as $value) {
+                        $originalDir = $imageLocalPath . "/" . $firstDir . "/" . $secondDir . "/" . $id."_" . $value . ".jpg";
+                        $command = '/usr/bin/convert ' . $localPath . ' -resize '.$value.'^ -gravity center -extent '.$value.' ' . $originalDir;
+                        exec($command);
+                        $upload = ftp_put($conn_id, $imageFile, $originalDir, FTP_BINARY);
+                        unlink($originalDir);
+                    }
